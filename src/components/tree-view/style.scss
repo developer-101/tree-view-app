@@ -1,0 +1,41 @@
+.menu {
+    padding: 10px;
+}
+
+.menu-item{
+    margin-bottom: 6px;
+    margin-top: 4px;
+}
+.menu-item-label {
+    display: inline-block;
+    margin-left: 6px;
+    vertical-align: top;
+    font-size: 16px;
+}
+
+.menu-item-children {
+    margin-left: 10px;
+}
+
+.blank-space {
+    display: inline-block;
+    width: 16px;
+}
+
+.control-elements {
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    gap:4px;
+}
+
+.control-elements-item {
+    color: #79b697;
+    cursor: pointer;
+}
+
+.control-elements-item:hover{
+    color: rgb(29, 138, 56);
+}
+
+

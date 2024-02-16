@@ -1,0 +1,153 @@
+[
+    {
+        "label": "Russia",
+        "to": "/russia",
+        "children":[
+            {
+                "label": "Moscow",
+                "to": "/moscow",
+                "children": [
+                    {
+                        "label": "Butovo",
+                        "to": "/",
+                        "children": []
+                    },
+                    {
+                        "label": "Clean loan",
+                        "to": "/",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "label": "Saint-Peterburg",
+                "to": "/",
+                "children": [
+                    {
+                        "label": "Thoughful",
+                        "to": "/",
+                        "children": []
+                    },
+                    {
+                        "label": "Other",
+                        "to": "/",
+                        "children": [
+                            {
+                                "label": "Events",
+                                "to": "/",
+                                "children": []
+                            },
+                            {
+                                "label": "Direction",
+                                "to": "/",
+                                "children": [
+                                    {
+                                        "label": "left",
+                                        "to": "/",
+                                        "children": []
+                                    },
+                                    {
+                                        "label": "right",
+                                        "to": "/",
+                                        "children": []
+                                    },
+                                    {
+                                        "label": "straight",
+                                        "to": "/",
+                                        "children": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "label": "Kazan",
+                "to": "/",
+                "children": []
+            }
+        ]
+    },
+    {
+        "label": "Uzbekistan",
+        "to": "/uzbekistan",
+        "children": [
+            {
+                "label": "Tashkent",
+                "to": "/tashkent",
+                "children": []
+            },
+            {
+                "label": "Samarkand",
+                "to": "/",
+                "children": []
+            },
+            {
+                "label": "Bukhara",
+                "to": "/",
+                "children": []
+            }
+        ]
+    },
+    {
+        "label": "Kazakhstan",
+        "to": "/kazakhstan",
+        "children": [
+            {
+                "label": "Almaty",
+                "to": "/",
+                "children": [
+                    {
+                        "label": "One",
+                        "to": "/",
+                        "children": []
+                    },
+                    {
+                        "label": "Two",
+                        "to": "/",
+                        "children": []
+                    },
+                    {
+                        "label": "Three",
+                        "to": "/",
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "label": "Astana",
+                "to": "/",
+                "children": []
+            },
+            {
+                "label": "Semipalatensk",
+                "to": "/",
+                "children": []
+            }
+        
+        ]
+    },
+    {
+        "label": "Australia",
+        "to": "/australia",
+        "children": [
+            {
+                "label": "Adelaide",
+                "to": "/",
+                "children": []
+            },
+            {
+                "label": "Melburne",
+                "to": "/",
+                "children": []
+            },
+            {
+                "label": "Ottava",
+                "to": "/",
+                "children": []
+            }
+        ]
+    }
+
+]
